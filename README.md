@@ -8,5 +8,5 @@ TensorFlow has taken the deep learning world by storm.  This workshop will be le
 
 - How to limit technical exploits of your models - e.g. how to use different methods to prevent your model going haywire, using different methods (confidence, adversarial examples, discriminator, separate classifiers or just simple whitelists).
 
-* [Presentation](Adverserial Learning - Presentation.pdf)
+* [Presentation](https://github.com/ilblackdragon/adversarial_workshop/blob/master/Adversarial%20Learning%20-%20Presentation.pdf)
 
