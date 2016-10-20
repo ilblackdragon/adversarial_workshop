@@ -10,3 +10,9 @@ TensorFlow has taken the deep learning world by storm.  This workshop will be le
 
 * [Presentation](https://github.com/ilblackdragon/adversarial_workshop/blob/master/Adversarial%20Learning%20-%20Presentation.pdf)
 
+# References
+
+ * Gal and Ghahramani, 2015: https://arxiv.org/pdf/1512.05287v5
+ * Srivastava et al., 2015: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+ * Goodfellow et al., 2015: https://arxiv.org/pdf/1412.6572v3
+ * Miyato et al., 2016: https://arxiv.org/pdf/1507.00677v9
